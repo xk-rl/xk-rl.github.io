@@ -1,0 +1,10 @@
+body {
+  background-color: #28015e;
+}
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 50px;
+  color: #dfcafc;
+  text-align: center;
+  margin-top: 25%;
+}
